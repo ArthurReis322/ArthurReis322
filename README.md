@@ -5,14 +5,14 @@
 
  <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=ArthurReis322&show_icons=true&theme=highcontrast"
+    srcset="https://github-readme-stats.vercel.app/api?username=ArthurReis-dev&show_icons=true&theme=highcontrast"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=ArthurReis322&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=ArthurReis-dev&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=ArthurReis322&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ArthurReis-dev&show_icons=true" />
 </picture>
 
   <div style="display: inline_block"><br>
@@ -29,8 +29,8 @@ _____________________________________________________________________________
 
 
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArthurReis322/ArthurReis322/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ArthurReis322/ArthurReis322/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ArthurReis322/ArthurReis322/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArthurReis-dev/ArthurReis-dev/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ArthurReis-dev/ArthurReis-dev/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ArthurReis-dev/ArthurReis-dev/output/github-contribution-grid-snake.svg">
 </picture>
 
